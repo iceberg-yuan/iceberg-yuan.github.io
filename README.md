@@ -10,7 +10,8 @@
 
 ---
 ## English
-1.[beyond feelings](https://www.academia.edu/10983846/Beyond_Feelings_A_Guide_to_Critical_Thinking_NINTH_EDITION)
+### beyond feelings
+1. 第一章大纲
 ---
 ## Blockchain
 

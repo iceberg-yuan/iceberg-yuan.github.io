@@ -11,7 +11,7 @@
 ---
 ## English
 ### beyond feelings
-#### [各章大纲](https://github.com/iceberg-yuan/iceberg-yuan.github.io/blob/master/2.beyond%20feelins%E5%A4%A7%E7%BA%B2)
+#### [各章单词](https://github.com/iceberg-yuan/iceberg-yuan.github.io/blob/master/2.beyond%20feelins%E5%A4%A7%E7%BA%B2)
 ---
 
 ## Blockchain

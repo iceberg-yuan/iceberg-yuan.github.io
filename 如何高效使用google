@@ -1,0 +1,39 @@
+1.	如果你想要找含有purpose of exercise 这个词组的文章，那么你必须输入“purpose of exercise”,在词组加上引号。
+2.	从搜索结果中排除特定词
+为了进一步筛选搜索结果，还需要学会另外一个符号----减号
+比如，“the most important benefit of education”-“united states”要求google返回含有“the most important benefit of education”但不存在“united states”的文章。
+Daddy的意思是父亲，同时也是一部电影名。当你搜索“Daddy”时，谷歌只返回有关电影的搜索。
+如果你只想搜索关于父亲，要排除电影，在您要排除的字词前加上-，例如：daddy –film
+3．搜索通配符或未知字词
+星号*用来代替任意字符串。比如搜索字符串“powerful*life”
+    可以配上引号来搜索依照顺序排着的字词。例如：“biggest* in Asia”
+4．当你只想在社交媒体里找到相关字词时，在用于搜索社交媒体的字词前加上@。例如：
+@twice
+5．组合搜索
+在各个搜索查询字词前加上“OR”，例如：“race OR marathon”，会找到关于marathon或race ，或两者均有的相关搜索结果。如：deer OR gorilla OR tiger
+6．搜索特定价格
+例如像搜索价格$200的书包，就输入“$200 bag”;“watch $1000”等
+7．在某个数字范围内执行搜索。要搜索如：“介于$100-$200的商品”，“10g-20g的某种东西”，“1900年-1999年发生的事”等等。在两个数字之间加上..。
+    例如：amazon table $50..$100
+8．搜索特定网站。只在特定的网站里搜索里内相关的资料，在相应网站或域名前加上“site:”，例如：site:youtube.com
+    假如你要在youtube里找关于猫的影片，就在网站后加上cat，例如：site:youtube.com cat
+    可以在购物网站里搜索你要的商品，例如：site:ebay.com table
+9．搜索相关网站。想找和某个网站有关系或相似特质的网站。在已知网址前方加上“related：”，例如“related:google.com”,google.com是一个搜索网站，加上“related：”在google.com前面，搜索返回结果是其他的搜索网站，如yahoo,Bing……..等等。
+10．搜寻主题标记。在字词前面加上“#”，例如：#mondayblue
+11．取得网站的相关资料。如果你想知道某个网站是关于什么，可以在网站的网址前方加上“info：”
+
+12．组合应用。
+（1）在channelnewsasia.com网站里搜索关于天灾的意外，除了地震，发生在2012年到2016年。
+输入：site: channelnewsasia.com~accident”natural disaster”-earthquake 2012..2016
+~accident表示也搜索和这个字有关联的，如failure，crash，mishap……等等。
+（2）从两个购物网站搜索手表，价格$100到$200之间。
+输入：site:shopee.com.my OR site:lelong.com.my watch $100..$200
+（3）从ebay与Amazon网站搜索苹果与微软产品，排除苹果电脑
+输入：site:ebay.com OR amazon.com apple OR Microsoft –tablet
+（4）在吉隆坡一带搜索低收费住宿，价格$100到$200，排除airbnb，靠近轻快铁站
+KL ~budget ~accommodation $100..$200 –airbnb “nearby LRT station”
+KL:表示搜索吉隆坡一带；
+~budget ~accommodation：搜索低收费住宿，也搜索和accomodation这个字有关联的；
+$100..$200：价格在$100到$200之间；
+–airbnb：排除airbnb；
+“nearby LRT station”：靠近轻快铁站，搜索和这句完全匹配的词。
